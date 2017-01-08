@@ -2,7 +2,6 @@
 from enum import Enum
 class days(Enum):
         Sunday=0
-        sunday=7
         Monday=1
         Tuesday=2
         Wednesday=3
